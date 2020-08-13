@@ -3,5 +3,6 @@ public class GitTestD {
         System.out.println("GitTestD");
         System.out.println("我要吃KFC");
         System.out.println("我要吃汉堡王");
+        System.out.println("我要吃麦当劳");
     }
 }
